@@ -1,4 +1,4 @@
-DO NOT OPEN THIS FILE IF YOU DO NOT KNOW WHAT IT'S DOING
+DO NOT OPEN THESE FILES IF YOU DO NOT KNOW WHAT IT'S DOING
 
 This file contains a program that opens infinite windows
 
