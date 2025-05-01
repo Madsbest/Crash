@@ -1,6 +1,6 @@
 DO NOT OPEN THESE FILES IF YOU DO NOT KNOW WHAT IT'S DOING
 
-This file contains a program that opens infinite windows
+These files contain programs that opens infinite windows
 
 To stop it you need to restart your PC
 
